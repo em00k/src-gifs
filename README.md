@@ -1,7 +1,6 @@
 # src-gifs
-Gifs for various projectys
+Gifs for various projects
 
-<img src="https://github.com/em00k/src-gifs/blob/main/demo.mp4?raw=true">
+<img src="https://github.com/em00k/src-gifs/blob/main/demo3.gif?raw=true">
 
-<source src="https://github.com/em00k/src-gifs/blob/main/demo.mp4" type="video/mp4">
 
